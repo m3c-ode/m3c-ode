@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime!</h1>
 <h3 align="center">Web and Software Developer | Experienced with React JS, C#, Python | Athlete | Brewer</h3>
 
-- 🔭 I’m currently working on **personal project (m3 beer management system) - NextJS app in TS with MongoDB - IN PROGRESS**
+- 🔭 I’m currently working on **personal project (m3 beer management system) - NextJS app in TS with MongoDB - IN PROGRESS**. You can't visit the app on this deployment link: [https://m3b-mgtm-service.vercel.app/](https://m3b-mgtm-service.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/m3c-ode/](https://github.com/m3c-ode/)
 
