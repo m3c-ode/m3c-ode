@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxime!</h1>
 <h3 align="center">Web and Software Developer | Experienced with React JS, C#, Python | Athlete | Brewer</h3>
 
-- 🔭 I’m currently working on a personal project (m3 beer management system) - NextJS app in TS with MongoDB. **You can visit the app on this deployment link: [https://m3b-mgtm-service.vercel.app/](https://m3b-mgtm-service.vercel.app/)**. (*IN PROGRESS*)
+- 🔭 I’m currently working on a personal project (m3 beer management system) - NextJS app in TS with MongoDB. **You can visit the app on this deployment link: [https://m3b-mgtm-service.vercel.app/](https://m3b-mgtm-service.vercel.app/)**. (*in progress*)
+
+- I've developed another application: using the ASP.NET Core 7 Entity Framework environment. It is connected to a SQL server, and I have made a test deployment on Azure. (*in progress*) [https://leavemanagementweb20230616123130.azurewebsites.net/](https://leavemanagementweb20230616123130.azurewebsites.net/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/m3c-ode/](https://github.com/m3c-ode/)
 
