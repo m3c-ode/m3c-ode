@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Maxime!</h1>
 <h3 align="center">Web and Software Developer | Experienced with React JS, C#, Python | Athlete | Brewer</h3>
 
-- 🔭 I’m currently working on a personal project (m3 beer management system) - NextJS app in TS with MongoDB. **You can visit the app on this deployment link: [https://m3b-mgtm-service.vercel.app/](https://m3b-mgtm-service.vercel.app/)**. (*in progress*)
+- 🔭 I’m currently working on a collaborative project (Come-Eat!) - React client styled with Tailwind CSS, with a Ruby onRails backend. **You can visit the app on this deployment link: [https://comeeat.io/](https://comeeat.io/)**. (*in progress*)
 
-- I've developed another application: using the ASP.NET Core 7 Entity Framework environment. It is connected to a SQL server, and I have made a test deployment on Azure. (*in progress*) [https://leavemanagementweb20230616123130.azurewebsites.net/](https://leavemanagementweb20230616123130.azurewebsites.net/)
+- I've developed other applications:
+  - Employee Leave Manager: using the ASP.NET Core 7 Entity Framework environment. It is connected to a SQL server, and I have made a test deployment on Azure. (*in progress*) [https://leavemanagementweb20230616123130.azurewebsites.net/](https://leavemanagementweb20230616123130.azurewebsites.net/)
+  - Quizme: collaborative project of an interactive application, mobile first designed, to create and share quizzes with other! Integrated with OpenAI APIs. [https://quiz-me.nexxai.dev/](https://quiz-me.nexxai.dev/)
+  - Brewery Management system: End-to-end solution for the beverage industry application. It's shipped with the NextJS framework, designed with AntD. [https://m3b-mgtm-service.vercel.app/](https://m3b-mgtm-service.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/m3c-ode/](https://github.com/m3c-ode/)
+- 👨‍💻 All of my projects are available on my portfolio page: [https://m3c-ode.github.io/](https://m3c-ode.github.io/) or on my github: [https://github.com/m3c-ode/](https://github.com/m3c-ode/)  
 
 - 📫 How to reach me **maxime.marechalmccoy@gmail.com**
 
